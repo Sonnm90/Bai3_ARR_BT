@@ -25,6 +25,7 @@ public class CONG_GIA_TRI_1COT {
             }
             System.out.println("\n");
         }
+
         do {
             System.out.println("Nhập vào cột cần cộng:");
              x = sc.nextInt();

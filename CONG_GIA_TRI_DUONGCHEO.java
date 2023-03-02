@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class CONG_GIA_TRI_DUONGCHEO {
     public static void main(String[] args) {
-        int d, sum1 = 0,sum2=0;
+        int d
+
+                , sum1 = 0,sum2=0;
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập vào số dòng và cột ma trận vuông:");
         d = sc.nextInt();
